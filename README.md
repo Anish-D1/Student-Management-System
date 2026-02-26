@@ -27,7 +27,7 @@ This application allows users to **add, edit, delete, and search students** effi
 ---
 
 ## 🌐 Live Project
-[View Student-Management-System](https://anish-d1.github.io/Student-Management-System/)
+[View Student-Management-System](student-management-system-27q1vv9hc-anish-d1s-projects.vercel.app)
 
 ---
 
