@@ -27,19 +27,19 @@ This application allows users to **add, edit, delete, and search students** effi
 ---
 
 ## 🌐 Live Project
-[View Calculator](https://anish-d1.github.io/Calculator-website/)
+[View Calculator](https://anish-d1.github.io/Student-Management-System/)
 
 ---
 
 ## 🎯 Learning Objectives
 
--This project helps in understanding:
--React component structure
--State management using useState
--CRUD operations
--Form handling
--Conditional rendering
--Basic routing
+- **This project helps in understanding:**
+- React component structure
+- State management using useState
+- CRUD operations
+- Form handling
+- Conditional rendering
+- Basic routing
 
 ---
 
