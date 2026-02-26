@@ -1,0 +1,115 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background: #f4f6f9;
+}
+
+/* Navbar */
+nav {
+  background: #1e293b;
+  padding: 15px 30px;
+  display: flex;
+  gap: 20px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+nav a:hover {
+  color: #38bdf8;
+}
+
+/* Container */
+.container {
+  width: 90%;
+  max-width: 900px;
+  margin: 40px auto;
+}
+
+/* Card */
+.card {
+  background: white;
+  padding: 20px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.08);
+}
+
+/* Buttons */
+button {
+  padding: 8px 14px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-right: 8px;
+  font-size: 14px;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+.btn-primary {
+  background: #2563eb;
+  color: white;
+}
+
+.btn-danger {
+  background: #dc2626;
+  color: white;
+}
+
+/* Form */
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+input {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+input:focus {
+  outline: none;
+  border-color: #2563eb;
+}
+
+/* Search */
+.search {
+  margin-bottom: 20px;
+  padding: 10px;
+  width: 100%;
+}
+
+
+/* Make full height layout */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
+/* Main app container */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Content should expand */
+.content {
+  flex: 1;
+}
