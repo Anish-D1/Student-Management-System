@@ -43,7 +43,7 @@ This application allows users to **add, edit, delete, and search students** effi
 
 ---
 
-##📌 Future Improvements
+## 📌 Future Improvements
 
 🔹 Backend integration (Node.js + Express + MongoDB)
 
